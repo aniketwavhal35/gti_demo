@@ -1,7 +1,7 @@
 #add implemetation
 #asdas
 def add(x,y):
-    pass
+    return x+y
     #subtract header
 #ubtract implementaiom
 def subtract(x,y):
