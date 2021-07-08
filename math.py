@@ -5,7 +5,7 @@ def add(x,y):
     #subtract header
 #ubtract implementaiom
 def subtract(x,y):
-    pass
+    return x-y
 #umu implementaiom
 def multiply(x,y):
     pass
